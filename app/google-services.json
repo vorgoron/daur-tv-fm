@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238383268005",
+    "project_id": "daur-tv",
+    "storage_bucket": "daur-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238383268005:android:420aee6c2aebdf8c1b0d4c",
+        "android_client_info": {
+          "package_name": "com.vorgoron.daurtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238383268005-ei105h6lr2ki1bn745kc6057c2lggp8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs2yzwaIOPFYJgFqXmcF6p70bzJtTrh8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238383268005-ei105h6lr2ki1bn745kc6057c2lggp8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

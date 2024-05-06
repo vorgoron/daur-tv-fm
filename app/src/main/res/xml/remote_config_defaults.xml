@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>radio_station_url</key>
+    <value>http://84.201.247.40:8000/radio</value>
+  </entry>
+  <entry>
+    <key>show_radio</key>
+    <value>true</value>
+  </entry>
+</defaults>

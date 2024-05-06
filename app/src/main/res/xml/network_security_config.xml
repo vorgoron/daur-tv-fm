@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">84.201.247.40</domain>
+        <domain includeSubdomains="true">192.168.0.156</domain>
+        <domain includeSubdomains="true">217.114.154.228</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">source.dnbradio.com</domain>
+        <trust-anchors>
+            <certificates src="@raw/dnbradio" />
+        </trust-anchors>
+    </domain-config>
+</network-security-config>

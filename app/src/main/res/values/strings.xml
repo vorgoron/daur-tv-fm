@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ДАУР ТВ + ФМ</string>
+    <string name="daur_tv_hls_url">https://hls.goodgame.ru/hls/192445.m3u8</string>
+    <string name="pause">Дугдытоно</string>
+    <string name="daur_tv">ДАУР ТВ</string>
+    <string name="daur_fm">ДАУР ФМ</string>
+    <string name="listen">КЫЛЗОНО</string>
+    <string name="watch">УЧКОНО</string>
+
+</resources>
